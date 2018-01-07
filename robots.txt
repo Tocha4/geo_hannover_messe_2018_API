@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /de/applikation/
+Disallow: /en/applikation/
+Disallow: /de/mycebit
+Disallow: /en/mycebit
+Disallow: /suche
+Disallow: /search
+Disallow: /dynmaps_*/
+Disallow: /de/kontakt/
+Disallow: /en/contact/
+Allow: /sitemap.xml
+Sitemap: http://www.hannovermesse.de/sitemap.xml
+User-agent: DMAG_Nutch
+Disallow:
